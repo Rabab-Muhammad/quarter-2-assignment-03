@@ -1,7 +1,5 @@
 import Link from "next/link";
 
-
-
 const Header = () => {
   return (
     <div className="sticky top-0  shadow-lg z-10  ">
